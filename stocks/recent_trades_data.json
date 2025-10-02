@@ -1,0 +1,596 @@
+{
+    "ACVA": {
+        "Account Number": "...4528",
+        "Trade Date": "3/20/2025",
+        "Description": "ACV AUCTIONS INC CLASS A COMMON STOCK UNSOLICITED AVG PRICE SHOWN-DETAILS ON REQROME: WHIPANYAAD25032057040",
+        "Ticker": "ACVA",
+        "Buy Price USD": 15.5,
+        "Sell Price USD": 15.69,
+        "Price Change (%)": 1.23
+    },
+    "BE": {
+        "Account Number": "...1637",
+        "Trade Date": "3/20/2025",
+        "Description": "BLOOM ENERGY CORPORATION CLASS A COMMON STOCK UNSOLICITED ROME: WHIPANYAAD25032051778",
+        "Ticker": "BE",
+        "Buy Price USD": 26.39,
+        "Sell Price USD": 25.41,
+        "Price Change (%)": -3.71
+    },
+    "TBBB": {
+        "Account Number": "...4528",
+        "Trade Date": "3/20/2025",
+        "Description": "BBB FOODS INC CLASS A COMMON SHARES UNSOLICITED J.P. MORGAN SECURITIES LLC MAKES A MARKET IN THIS SECURITY ROME: WHIPANYAAD2",
+        "Ticker": "TBBB",
+        "Buy Price USD": 25.69,
+        "Sell Price USD": 25.65,
+        "Price Change (%)": -0.16
+    },
+    "CVNA": {
+        "Account Number": "...1637",
+        "Trade Date": "3/20/2025",
+        "Description": "CARVANA CO CLASS A COMMON STOCK UNSOLICITED ROME: WHIPANYAAD25032053663",
+        "Ticker": "CVNA",
+        "Buy Price USD": 191.43,
+        "Sell Price USD": 185.42,
+        "Price Change (%)": -3.14
+    },
+    "CAVA": {
+        "Account Number": "...4528",
+        "Trade Date": "3/20/2025",
+        "Description": "CAVA GROUP INC COMMON STOCK UNSOLICITED J.P. MORGAN SECURITIES LLC MAKES A MARKET IN THIS SECURITY ROME: WHIPANYAAD25032056532",
+        "Ticker": "CAVA",
+        "Buy Price USD": 86.39,
+        "Sell Price USD": 84.66,
+        "Price Change (%)": -2.0
+    },
+    "CLS": {
+        "Account Number": "...4528",
+        "Trade Date": "3/20/2025",
+        "Description": "CELESTICA INC COM UNSOLICITED J.P. MORGAN SECURITIES LLC MAKES A MARKET IN THIS SECURITY ROME: WHIPANYAAD25032055607",
+        "Ticker": "CLS",
+        "Buy Price USD": 97.13,
+        "Sell Price USD": 95.65,
+        "Price Change (%)": -1.52
+    },
+    "DRI": {
+        "Account Number": "...1637",
+        "Trade Date": "3/20/2025",
+        "Description": "DARDEN RESTAURANTS INC UNSOLICITED ROME: WHIPANYAAD25032049064",
+        "Ticker": "DRI",
+        "Buy Price USD": 200.43,
+        "Sell Price USD": 199.01,
+        "Price Change (%)": -0.71
+    },
+    "FIVE": {
+        "Account Number": "...1637",
+        "Trade Date": "3/20/2025",
+        "Description": "FIVE BELOW INC UNSOLICITED J.P. MORGAN SECURITIES LLC MAKES A MARKET IN THIS SECURITY ROME: WHIPANYAAD25032049985",
+        "Ticker": "FIVE",
+        "Buy Price USD": 80.74,
+        "Sell Price USD": 76.11,
+        "Price Change (%)": -5.73
+    },
+    "TNXP": {
+        "Account Number": "...1637",
+        "Trade Date": "3/7/2025",
+        "Description": "TONIX PHARMACEUTICALS HOLDING CORP COMMON STOCK UNSOLICITED ROME: WHIPANYAAD25030717190",
+        "Ticker": "TNXP",
+        "Buy Price USD": 13.92,
+        "Sell Price USD": 15.01,
+        "Price Change (%)": 7.83
+    },
+    "AFRM": {
+        "Account Number": "...4528",
+        "Trade Date": "3/19/2025",
+        "Description": "AFFIRM HOLDINGS INC CLASS A COMMON STOCK UNSOLICITED ROME: WHIPANYAAB25031992037",
+        "Ticker": "AFRM",
+        "Buy Price USD": 46.76,
+        "Sell Price USD": 49.44,
+        "Price Change (%)": 5.73
+    },
+    "CORZ": {
+        "Account Number": "...4528",
+        "Trade Date": "3/19/2025",
+        "Description": "CORE SCIENTIFIC INC COMMON STOCK UNSOLICITED ROME: WHIPANYAAB25031994386",
+        "Ticker": "CORZ",
+        "Buy Price USD": 8.57,
+        "Sell Price USD": 8.88,
+        "Price Change (%)": 3.62
+    },
+    "HCM": {
+        "Account Number": "...4528",
+        "Trade Date": "3/19/2025",
+        "Description": "HUTCHMED CHINA LIMITED AMERICAN DEPOSITARY SHARES UNSOLICITED J.P. MORGAN SECURITIES LLC MAKES A MARKET IN THIS SECURITY ROM",
+        "Ticker": "HCM",
+        "Buy Price USD": 15.98,
+        "Sell Price USD": 16.32,
+        "Price Change (%)": 2.13
+    },
+    "IMVT": {
+        "Account Number": "...4528",
+        "Trade Date": "3/19/2025",
+        "Description": "IMMUNOVANT INC COMMON STOCK UNSOLICITED ROME: WHIPANYAAB25031997226",
+        "Ticker": "IMVT",
+        "Buy Price USD": 19.95,
+        "Sell Price USD": 19.2,
+        "Price Change (%)": -3.76
+    },
+    "OLLI": {
+        "Account Number": "...1637",
+        "Trade Date": "3/19/2025",
+        "Description": "OLLIE S BARGAIN OUTLET HOLDINGS INC COM UNSOLICITED J.P. MORGAN SECURITIES LLC MAKES A MARKET IN THIS SECURITY ROME: WHIPANYAAB",
+        "Ticker": "OLLI",
+        "Buy Price USD": 109.33,
+        "Sell Price USD": 107.86,
+        "Price Change (%)": -1.34
+    },
+    "PAGS": {
+        "Account Number": "...1637",
+        "Trade Date": "3/19/2025",
+        "Description": "PAGSEGURO DIGITAL LTD CLASS A COMMON SHARES UNSOLICITED ROME: WHIPANYAAB25031986296",
+        "Ticker": "PAGS",
+        "Buy Price USD": 8.57,
+        "Sell Price USD": 8.51,
+        "Price Change (%)": -0.7
+    },
+    "ROKU": {
+        "Account Number": "...1637",
+        "Trade Date": "3/19/2025",
+        "Description": "ROKU INC CLASS A COMMON STOCK UNSOLICITED J.P. MORGAN SECURITIES LLC MAKES A MARKET IN THIS SECURITY ROME: WHIPANYAAB2503197482",
+        "Ticker": "ROKU",
+        "Buy Price USD": 73.91,
+        "Sell Price USD": 74.02,
+        "Price Change (%)": 0.15
+    },
+    "SHOP": {
+        "Account Number": "...4528",
+        "Trade Date": "3/19/2025",
+        "Description": "SHOPIFY INC CL A UNSOLICITED J.P. MORGAN SECURITIES LLC MAKES A MARKET IN THIS SECURITY ROME: WHIPANYAAC25031900616",
+        "Ticker": "SHOP",
+        "Buy Price USD": 100.32,
+        "Sell Price USD": 103.47,
+        "Price Change (%)": 3.14
+    },
+    "STNE": {
+        "Account Number": "...1637",
+        "Trade Date": "3/19/2025",
+        "Description": "STONECO LTD CLASS A COMMON SHARES UNSOLICITED AVG PRICE SHOWN-DETAILS ON REQJ.P. MORGAN SECURITIES LLC MAKES A MARKET IN THI",
+        "Ticker": "STNE",
+        "Buy Price USD": 11.4,
+        "Sell Price USD": 11.21,
+        "Price Change (%)": -1.67
+    },
+    "SIG": {
+        "Account Number": "...1637",
+        "Trade Date": "3/19/2025",
+        "Description": "SIGNET JEWELERS LIMITED UNSOLICITED ROME: WHIPANYAAB25031970142",
+        "Ticker": "SIG",
+        "Buy Price USD": 59.57,
+        "Sell Price USD": 57.79,
+        "Price Change (%)": -2.99
+    },
+    "CNX": {
+        "Account Number": "...1637",
+        "Trade Date": "3/18/2025",
+        "Description": "CNX RESOURCES CORPORATION COMMON STOCK UNSOLICITED ROME: WHIPANYAAB25031879159",
+        "Ticker": "CNX",
+        "Buy Price USD": 32.41,
+        "Sell Price USD": 31.8,
+        "Price Change (%)": -1.88
+    },
+    "ESLT": {
+        "Account Number": "...1637",
+        "Trade Date": "3/18/2025",
+        "Description": "ELBIT SYSTEMS LTD-ORD UNSOLICITED J.P. MORGAN SECURITIES LLC MAKES A MARKET IN THIS SECURITY ROME: WHIPANYAAB25031873961",
+        "Ticker": "ESLT",
+        "Buy Price USD": 412.52,
+        "Sell Price USD": 408.53,
+        "Price Change (%)": -0.97
+    },
+    "FINV": {
+        "Account Number": "...4528",
+        "Trade Date": "3/18/2025",
+        "Description": "FINVOLUTION GROUP AMERICAN DEPOSITARY SHS ECH RPRSNTNG FIVE CL A ORD SHS UNSOLICITED ROME: WHIPANYAAB25031863579",
+        "Ticker": "FINV",
+        "Buy Price USD": 10.2,
+        "Sell Price USD": 10.72,
+        "Price Change (%)": 5.1
+    },
+    "IMPUY": {
+        "Account Number": "...1637",
+        "Trade Date": "3/18/2025",
+        "Description": "IMPALA PLATINUM HLDGS LTD SPONSORED ADR REPSTG 1/2 SH UNSOLICITED AVG PRICE SHOWN-DETAILS ON REQROME: WHIPANYAAB25031888020",
+        "Ticker": "IMPUY",
+        "Buy Price USD": 6.59,
+        "Sell Price USD": 6.57,
+        "Price Change (%)": -0.3
+    },
+    "TME": {
+        "Account Number": "...1637",
+        "Trade Date": "3/18/2025",
+        "Description": "TENCENT MUSIC ENTERTAINMENTGROUP AMERICAN DEPOSITARY SHS ECH RPRSNTNG TWO CL A ORD SHS UNSOLICITED J.P. MORGAN SECURITIES LL",
+        "Ticker": "TME",
+        "Buy Price USD": 13.9,
+        "Sell Price USD": 15.09,
+        "Price Change (%)": 8.56
+    },
+    "ASND": {
+        "Account Number": "...1637",
+        "Trade Date": "3/17/2025",
+        "Description": "ASCENDIS PHARMA A S ADS UNSOLICITED ROME: WHIPANYAAA25031785256",
+        "Ticker": "ASND",
+        "Buy Price USD": 165.69,
+        "Sell Price USD": 168.84,
+        "Price Change (%)": 1.9
+    },
+    "QBTS": {
+        "Account Number": "...4528",
+        "Trade Date": "3/17/2025",
+        "Description": "D WAVE QUANTUM INC COMMON STOCK UNSOLICITED AVG PRICE SHOWN-DETAILS ON REQROME: WHIPANYAAA25031794420",
+        "Ticker": "QBTS",
+        "Buy Price USD": 10.34,
+        "Sell Price USD": 11.18,
+        "Price Change (%)": 8.12
+    },
+    "NFE": {
+        "Account Number": "...4528",
+        "Trade Date": "3/14/2025",
+        "Description": "NEW FORTRESS ENERGY INC CLASS A COMMON STOCK UNSOLICITED ROME: WHIPANYAAB25031422104",
+        "Ticker": "NFE",
+        "Buy Price USD": 9.35,
+        "Sell Price USD": 9.22,
+        "Price Change (%)": -1.39
+    },
+    "ORLA": {
+        "Account Number": "...4528",
+        "Trade Date": "3/17/2025",
+        "Description": "ORLA MNG LTD NEW COM UNSOLICITED AVG PRICE SHOWN-DETAILS ON REQROME: WHIPANYAAB25031704453",
+        "Ticker": "ORLA",
+        "Buy Price USD": 9.47,
+        "Sell Price USD": 9.24,
+        "Price Change (%)": -2.43
+    },
+    "SAIC": {
+        "Account Number": "...1637",
+        "Trade Date": "3/17/2025",
+        "Description": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION UNSOLICITED ROME: WHIPANYAAA25031769862",
+        "Ticker": "SAIC",
+        "Buy Price USD": 117.45,
+        "Sell Price USD": 111.9,
+        "Price Change (%)": -4.73
+    },
+    "WXXWY": {
+        "Account Number": "...1637",
+        "Trade Date": "3/17/2025",
+        "Description": "WUXI BIOLOGICS CAYMAN INC AMERICAN DEPOSITARY RECEIPTS UNSPONSORED UNSOLICITED ROME: WHIPANYAAA25031766461",
+        "Ticker": "WXXWY",
+        "Buy Price USD": 6.83,
+        "Sell Price USD": 6.94,
+        "Price Change (%)": 1.61
+    },
+    "WRD": {
+        "Account Number": "...1637",
+        "Trade Date": "3/17/2025",
+        "Description": "WERIDE INC AMERICAN DEPOSITARY SHARES UNSOLICITED ROME: WHIPANYAAA25031772796",
+        "Ticker": "WRD",
+        "Buy Price USD": 19.73,
+        "Sell Price USD": 18.01,
+        "Price Change (%)": -8.72
+    },
+    "DOCU": {
+        "Account Number": "...1637",
+        "Trade Date": "3/14/2025",
+        "Description": "DOCUSIGN INC COMMON STOCK UNSOLICITED ROME: WHIPANYAAA25031496267",
+        "Ticker": "DOCU",
+        "Buy Price USD": 85.84,
+        "Sell Price USD": 85.76,
+        "Price Change (%)": -0.09
+    },
+    "FUTU": {
+        "Account Number": "...4528",
+        "Trade Date": "3/14/2025",
+        "Description": "FUTU HOLDINGS LIMITED AMERICAN DEPOSITARY SHARES UNSOLICITED J.P. MORGAN SECURITIES LLC MAKES A MARKET IN THIS SECURITY ROME",
+        "Ticker": "FUTU",
+        "Buy Price USD": 120.71,
+        "Sell Price USD": 118.47,
+        "Price Change (%)": -1.86
+    },
+    "IONQ": {
+        "Account Number": "...1637",
+        "Trade Date": "3/12/2025",
+        "Description": "IONQ INC COMMON STOCK UNSOLICITED ROME: WHIPANYAAB25031229283",
+        "Ticker": "IONQ",
+        "Buy Price USD": 20.85,
+        "Sell Price USD": 21.82,
+        "Price Change (%)": 4.65
+    },
+    "PTON": {
+        "Account Number": "...4528",
+        "Trade Date": "3/14/2025",
+        "Description": "PELOTON INTERACTIVE INC CLASS A COMMON STOCK UNSOLICITED J.P. MORGAN SECURITIES LLC MAKES A MARKET IN THIS SECURITY ROME: WHIPA",
+        "Ticker": "PTON",
+        "Buy Price USD": 6.62,
+        "Sell Price USD": 7.05,
+        "Price Change (%)": 6.5
+    },
+    "RGTI": {
+        "Account Number": "...1637",
+        "Trade Date": "3/14/2025",
+        "Description": "RIGETTI COMPUTING INC COMMON STOCK UNSOLICITED ROME: WHIPANYAAB25031400871",
+        "Ticker": "RGTI",
+        "Buy Price USD": 10.03,
+        "Sell Price USD": 11.22,
+        "Price Change (%)": 11.86
+    },
+    "RBRK": {
+        "Account Number": "...1637",
+        "Trade Date": "3/14/2025",
+        "Description": "RUBRIK INC CLASS A COMMON STOCK UNSOLICITED ROME: WHIPANYAAA25031494426",
+        "Ticker": "RBRK",
+        "Buy Price USD": 68.51,
+        "Sell Price USD": 70.64,
+        "Price Change (%)": 3.11
+    },
+    "SMTC": {
+        "Account Number": "...1637",
+        "Trade Date": "3/14/2025",
+        "Description": "SEMTECH CORP UNSOLICITED J.P. MORGAN SECURITIES LLC MAKES A MARKET IN THIS SECURITY ROME: WHIPANYAAA25031497491",
+        "Ticker": "SMTC",
+        "Buy Price USD": 36.94,
+        "Sell Price USD": 39.6,
+        "Price Change (%)": 7.2
+    },
+    "VNET": {
+        "Account Number": "...4528",
+        "Trade Date": "3/14/2025",
+        "Description": "VNET GROUP INC AMERICAN DEPOSITARY SHARES UNSOLICITED J.P. MORGAN SECURITIES LLC MAKES A MARKET IN THIS SECURITY ROME: WHIPA",
+        "Ticker": "VNET",
+        "Buy Price USD": 11.37,
+        "Sell Price USD": 11.65,
+        "Price Change (%)": 2.46
+    },
+    "ALGM": {
+        "Account Number": "...1637",
+        "Trade Date": "3/13/2025",
+        "Description": "ALLEGRO MICROSYSTEMS INC COMMON STOCK UNSOLICITED ROME: WHIPANYAAC25031380653",
+        "Ticker": "ALGM",
+        "Buy Price USD": 26.96,
+        "Sell Price USD": 27.4,
+        "Price Change (%)": 1.63
+    },
+    "AES": {
+        "Account Number": "...4528",
+        "Trade Date": "3/13/2025",
+        "Description": "AES CORP UNSOLICITED ROME: WHIPANYAAE25031333366",
+        "Ticker": "AES",
+        "Buy Price USD": 12.27,
+        "Sell Price USD": 12.34,
+        "Price Change (%)": 0.57
+    },
+    "DLTR": {
+        "Account Number": "...1637",
+        "Trade Date": "3/13/2025",
+        "Description": "DOLLAR TREE INC UNSOLICITED J.P. MORGAN SECURITIES LLC MAKES A MARKET IN THIS SECURITY ROME: WHIPANYAAC25031392990",
+        "Ticker": "DLTR",
+        "Buy Price USD": 66.44,
+        "Sell Price USD": 65.43,
+        "Price Change (%)": -1.52
+    },
+    "DG": {
+        "Account Number": "...1637",
+        "Trade Date": "3/13/2025",
+        "Description": "DOLLAR GENERAL CORPORATION UNSOLICITED ROME: WHIPANYAAC25031398336",
+        "Ticker": "DG",
+        "Buy Price USD": 80.49,
+        "Sell Price USD": 77.71,
+        "Price Change (%)": -3.45
+    },
+    "FIS": {
+        "Account Number": "...4528",
+        "Trade Date": "3/13/2025",
+        "Description": "FIDELITY NATIONAL INFORMATION SERVICES INC UNSOLICITED J.P. MORGAN SECURITIES LLC MAKES A MARKET IN THIS SECURITY ROME: WHIPANY",
+        "Ticker": "FIS",
+        "Buy Price USD": 70.56,
+        "Sell Price USD": 70.09,
+        "Price Change (%)": -0.67
+    },
+    "FN": {
+        "Account Number": "...1637",
+        "Trade Date": "3/13/2025",
+        "Description": "FABRINET UNSOLICITED ROME: WHIPANYAAC25031361617",
+        "Ticker": "FN",
+        "Buy Price USD": 220.0,
+        "Sell Price USD": 218.68,
+        "Price Change (%)": -0.6
+    },
+    "INTC": {
+        "Account Number": "...1637",
+        "Trade Date": "3/13/2025",
+        "Description": "INTEL CORP UNSOLICITED J.P. MORGAN SECURITIES LLC MAKES A MARKET IN THIS SECURITY ROME: WHIPANYAAC25031357498",
+        "Ticker": "INTC",
+        "Buy Price USD": 23.82,
+        "Sell Price USD": 23.84,
+        "Price Change (%)": 0.08
+    },
+    "OII": {
+        "Account Number": "...4528",
+        "Trade Date": "3/13/2025",
+        "Description": "OCEANEERING INTERNATIONAL INC UNSOLICITED ROME: WHIPANYAAE25031346511",
+        "Ticker": "OII",
+        "Buy Price USD": 20.14,
+        "Sell Price USD": 19.88,
+        "Price Change (%)": -1.29
+    },
+    "CXM": {
+        "Account Number": "...1637",
+        "Trade Date": "3/12/2025",
+        "Description": "SPRINKLR INC CLASS A COMMON STOCK UNSOLICITED AVG PRICE SHOWN-DETAILS ON REQROME: WHIPANYAAB25031223047",
+        "Ticker": "CXM",
+        "Buy Price USD": 9.11,
+        "Sell Price USD": 9.42,
+        "Price Change (%)": 3.4
+    },
+    "TLN": {
+        "Account Number": "...1637",
+        "Trade Date": "3/12/2025",
+        "Description": "TALEN ENERGY CORPORATION COMMON STOCK UNSOLICITED ROME: WHIPANYAAB25031251622",
+        "Ticker": "TLN",
+        "Buy Price USD": 193.63,
+        "Sell Price USD": 199.09,
+        "Price Change (%)": 2.82
+    },
+    "VKTX": {
+        "Account Number": "...1637",
+        "Trade Date": "3/12/2025",
+        "Description": "VIKING THERAPEUTICS INC COMMON STOCK UNSOLICITED ROME: WHIPANYAAB25031245775",
+        "Ticker": "VKTX",
+        "Buy Price USD": 29.69,
+        "Sell Price USD": 29.55,
+        "Price Change (%)": -0.47
+    },
+    "NBIS": {
+        "Account Number": "...1637",
+        "Trade Date": "3/12/2025",
+        "Description": "NEBIUS GROUP N V CLASS A ORDINARY SHARES UNSOLICITED ROME: WHIPANYAAB25031240315",
+        "Ticker": "NBIS",
+        "Buy Price USD": 27.88,
+        "Sell Price USD": 28.4,
+        "Price Change (%)": 1.87
+    },
+    "HSAI": {
+        "Account Number": "...1637",
+        "Trade Date": "3/11/2025",
+        "Description": "HESAI GROUP AMERICAN DEPOSITARY SHARE EACHADS RPSNTS ONE CLASS B ORD SHSUNSOLICITED J.P. MORGAN SECURITIES LLC MAKES A MARKE",
+        "Ticker": "HSAI",
+        "Buy Price USD": 20.11,
+        "Sell Price USD": 22.55,
+        "Price Change (%)": 12.13
+    },
+    "KFY": {
+        "Account Number": "...1637",
+        "Trade Date": "3/11/2025",
+        "Description": "KORN FERRY COMMON STOCK UNSOLICITED ROME: WHIPANYAAE25031116190",
+        "Ticker": "KFY",
+        "Buy Price USD": 69.23,
+        "Sell Price USD": 67.46,
+        "Price Change (%)": -2.56
+    },
+    "PAY": {
+        "Account Number": "...1637",
+        "Trade Date": "3/11/2025",
+        "Description": "PAYMENTUS HOLDINGS INC CLASS A COMMON STOCK UNSOLICITED AVG PRICE SHOWN-DETAILS ON REQROME: WHIPANYAAD25031159883",
+        "Ticker": "PAY",
+        "Buy Price USD": 29.06,
+        "Sell Price USD": 28.95,
+        "Price Change (%)": -0.38
+    },
+    "ROOT": {
+        "Account Number": "...4528",
+        "Trade Date": "3/11/2025",
+        "Description": "ROOT INC CLASS A COMMON STOCK UNSOLICITED AVG PRICE SHOWN-DETAILS ON REQROME: WHIPANYAAF25031105060",
+        "Ticker": "ROOT",
+        "Buy Price USD": 137.25,
+        "Sell Price USD": 140.92,
+        "Price Change (%)": 2.67
+    },
+    "RDDT": {
+        "Account Number": "...1637",
+        "Trade Date": "3/11/2025",
+        "Description": "REDDIT INC CLASS A COMMON STOCK UNSOLICITED ROME: WHIPANYAAE25031108391",
+        "Ticker": "RDDT",
+        "Buy Price USD": 118.32,
+        "Sell Price USD": 122.84,
+        "Price Change (%)": 3.82
+    },
+    "XPEV": {
+        "Account Number": "...1637",
+        "Trade Date": "3/11/2025",
+        "Description": "XPENG INC ADS EACH REPRESENTING TWO CLASS A ORDINARY SHARES UNSOLICITED AVG PRICE SHOWN-DETAILS ON REQJ.P. MORGAN SECURITIES",
+        "Ticker": "XPEV",
+        "Buy Price USD": 26.38,
+        "Sell Price USD": 26.38,
+        "Price Change (%)": 0.0
+    },
+    "BECN": {
+        "Account Number": "...1637",
+        "Trade Date": "3/10/2025",
+        "Description": "BEACON ROOFING SUPPLY INC UNSOLICITED J.P. MORGAN SECURITIES LLC MAKES A MARKET IN THIS SECURITY ROME: WHIPANYAAF25031012089",
+        "Ticker": "BECN",
+        "Buy Price USD": 119.77,
+        "Sell Price USD": 118.52,
+        "Price Change (%)": -1.04
+    },
+    "ELF": {
+        "Account Number": "...1637",
+        "Trade Date": "3/10/2025",
+        "Description": "E L F BEAUTY INC COM UNSOLICITED ROME: WHIPANYAAF25031016435",
+        "Ticker": "ELF",
+        "Buy Price USD": 74.98,
+        "Sell Price USD": 74.04,
+        "Price Change (%)": -1.25
+    },
+    "KTOS": {
+        "Account Number": "...1637",
+        "Trade Date": "3/10/2025",
+        "Description": "KRATOS DEFENSE & SEC SOLUTIONSUNSOLICITED J.P. MORGAN SECURITIES LLC MAKES A MARKET IN THIS SECURITY ROME: WHIPANYAAH2503104088",
+        "Ticker": "KTOS",
+        "Buy Price USD": 29.24,
+        "Sell Price USD": 29.18,
+        "Price Change (%)": -0.21
+    },
+    "PTGX": {
+        "Account Number": "...1637",
+        "Trade Date": "3/10/2025",
+        "Description": "PROTAGONIST THERAPEUTICS INC COM UNSOLICITED ROME: WHIPANYAAE25031040914",
+        "Ticker": "PTGX",
+        "Buy Price USD": 52.13,
+        "Sell Price USD": 55.95,
+        "Price Change (%)": 7.33
+    },
+    "VRN": {
+        "Account Number": "...1637",
+        "Trade Date": "3/10/2025",
+        "Description": "VEREN INC COM NEW UNSOLICITED ROME: WHIPANYAAF25031000516",
+        "Ticker": "VRN",
+        "Buy Price USD": 5.56,
+        "Sell Price USD": 5.7,
+        "Price Change (%)": 2.52
+    },
+    "AVTR": {
+        "Account Number": "...1637",
+        "Trade Date": "3/7/2025",
+        "Description": "AVANTOR INC COMMON STOCK UNSOLICITED ROME: WHIPANYAAN25030754257",
+        "Ticker": "AVTR",
+        "Buy Price USD": 17.29,
+        "Sell Price USD": 17.5,
+        "Price Change (%)": 1.21
+    },
+    "GAP": {
+        "Account Number": "...1637",
+        "Trade Date": "3/7/2025",
+        "Description": "GAP INC COMMON STOCK UNSOLICITED ROME: WHIPANYAAG25030732443",
+        "Ticker": "GAP",
+        "Buy Price USD": 21.85,
+        "Sell Price USD": 23.0,
+        "Price Change (%)": 5.26
+    },
+    "HMY": {
+        "Account Number": "...1637",
+        "Trade Date": "3/7/2025",
+        "Description": "HARMONY GOLD MINING CO LTD SPONSORED ADR UNSOLICITED J.P. MORGAN SECURITIES LLC MAKES A MARKET IN THIS SECURITY ROME: WHIPAN",
+        "Ticker": "HMY",
+        "Buy Price USD": 11.89,
+        "Sell Price USD": 11.84,
+        "Price Change (%)": -0.42
+    },
+    "HE": {
+        "Account Number": "...1637",
+        "Trade Date": "3/7/2025",
+        "Description": "HAWAIIAN ELECTRIC INDUSTRIES INC UNSOLICITED ROME: WHIPANYAAE25030768306",
+        "Ticker": "HE",
+        "Buy Price USD": 11.78,
+        "Sell Price USD": 11.25,
+        "Price Change (%)": -4.5
+    }
+}
